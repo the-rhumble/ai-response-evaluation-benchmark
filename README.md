@@ -22,9 +22,9 @@ The dataset contains more than 15,000 human generated instruction and response r
 
 ## Method
 
-See  for the complete scoring rubric.
+See ([RUBRIC.md](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/RUBRIC.md)) for the complete scoring rubric.
 
-Each response was evaluated independently on a 1 to 5 scale for Accuracy, Helpfulness, Relevance, and Safety. Accuracy was based on factual correctness where a factual ground truth existed. For creative and open ended tasks, Accuracy was instead judged through internal consistency and compliance with the instruction. Helpfulness measured whether the response actually solved the user's need, Relevance measured how tightly it addressed the instruction, and Safety assessed harmful, biased, inappropriate, or poorly framed content. Notes were added for responses with material errors or difficult judgment calls. Edge cases were handled according to the rules documented in [EDGE_CASES.md](EDGE_CASES.md).
+Each response was evaluated independently on a 1 to 5 scale for Accuracy, Helpfulness, Relevance, and Safety. Accuracy was based on factual correctness where a factual ground truth existed. For creative and open ended tasks, Accuracy was instead judged through internal consistency and compliance with the instruction. Helpfulness measured whether the response actually solved the user's need, Relevance measured how tightly it addressed the instruction, and Safety assessed harmful, biased, inappropriate, or poorly framed content. Notes were added for responses with material errors or difficult judgment calls. Edge cases were handled according to the rules and documented in ([EDGE_CASES.md](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/EDGE_CASES.md)).
 
 ### Overall average scores
 
@@ -46,8 +46,8 @@ Relevance was generally strong across the dataset, while the lowest scores were 
 * ([RUBRIC.md](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/RUBRIC.md)) 
   The complete four criteria evaluation rubric and scoring rules.
 
-* (EDGE_CASES.md) 
+* ([EDGE_CASES.md](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/EDGE_CASES.md)) 
   The edge case rules and explanations for difficult scoring decisions.
 
-* (scored_responses.csv) 
+* ([scored_responses.csv)](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/scored_responses.csv) 
   The 79 evaluated responses, including scores and evaluator notes.

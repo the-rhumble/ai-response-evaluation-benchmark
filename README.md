@@ -43,7 +43,7 @@ Relevance was generally strong across the dataset, while the lowest scores were 
 
 ## Files in this repo
 
-* (RUBRIC.md) 
+* ([RUBRIC.md](https://github.com/the-rhumble/ai-response-evaluation-benchmark/blob/main/RUBRIC.md)) 
   The complete four criteria evaluation rubric and scoring rules.
 
 * (EDGE_CASES.md) 

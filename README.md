@@ -18,7 +18,7 @@ The goal is to make the scoring process transparent and reproducible rather than
 
 **Rows evaluated:** 79
 
-The dataset contains more than 15,000 human generated instruction and response records across categories including brainstorming, classification, closed question answering, generation, information extraction, open question answering, and summarization. :contentReference[oaicite:1]{index=1}
+The dataset contains more than 15,000 human generated instruction and response records across categories including brainstorming, classification, closed question answering, generation, information extraction, open question answering, and summarization.
 
 ## Method
 
@@ -43,11 +43,11 @@ Relevance was generally strong across the dataset, while the lowest scores were 
 
 ## Files in this repo
 
-* `RUBRIC.md`  
+* `(RUBRIC.md)` [Evaluation Rubrics] 
   The complete four criteria evaluation rubric and scoring rules.
 
-* `EDGE_CASES.md`  
+* `(EDGE_CASES.md)`  
   The edge case rules and explanations for difficult scoring decisions.
 
-* `scored_responses.csv`  
+* `(scored_responses.csv)`  
   The 79 evaluated responses, including scores and evaluator notes.

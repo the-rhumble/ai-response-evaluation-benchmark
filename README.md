@@ -43,11 +43,11 @@ Relevance was generally strong across the dataset, while the lowest scores were 
 
 ## Files in this repo
 
-* `(RUBRIC.md)` [Evaluation Rubrics] 
+* (RUBRIC.md) 
   The complete four criteria evaluation rubric and scoring rules.
 
-* `(EDGE_CASES.md)`  
+* (EDGE_CASES.md) 
   The edge case rules and explanations for difficult scoring decisions.
 
-* `(scored_responses.csv)`  
+* (scored_responses.csv) 
   The 79 evaluated responses, including scores and evaluator notes.
